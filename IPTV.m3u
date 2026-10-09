@@ -1,0 +1,30 @@
+#EXTM3U
+#EXTINF:600,Aqsa TV
+https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
+#EXTINF:0,BBC News
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
+#EXTINF:0,AlJazeera English
+http://stream.mcquack.net/131/index.m3u8
+#EXTINF:0,501 Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:0,TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+#EXTINF:0,TV9
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUWd64T-nhX7rWpM-WMdYvDmxb2PGZF7Qh6cQyNJ6SfR2sHvbhR3h4wfxt9FhgN9NF6JyN5B5uWZZW5uHEG6aVhP2y_9HVzFQ--G2Tav-qci0gvKxBre2vZdkpU_4r5Hcv7IMR4sf04VpprgdyWKozFJA3FRQO0XhUS0nZHBqbtWpfKVnVx5PsD4dKgqmJUTzAz0qd0VAatnRzamWi1IqHvw.m3u8?u=1756878715
+#EXTINF:0,Jom Ngaji
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd
+#EXTINF:0,Quran Kareem TV
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+#EXTINF:0,Madina Live
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+#EXTINF:0,Makkah TV
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+#EXTINF:0,TV IKIM
+https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
+#EXTINF:0,Perlis FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/PERLIS_FMAAC_SC
+#EXTINF:0,Perak FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/PERAK_FMAAC_SC
+#EXTINF:0,Moonbug
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
