@@ -15,12 +15,10 @@ http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84O
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd
 #EXTINF:0,Quran Kareem TV
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
-#EXTINF:0,Madina Live
-https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 #EXTINF:0,Makkah TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-#EXTINF:0,TV IKIM
-https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
+#EXTINF:0,IKIM FM
+https://stream.rcs.revma.com/kz3pdu9wz2nwv/hls.m3u8
 #EXTINF:0,Perlis FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/PERLIS_FMAAC_SC
 #EXTINF:0,Perak FM
